@@ -8,7 +8,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -18,7 +17,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -28,22 +27,11 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
-
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/cerezoar/fem-order-summary-component)
+- [Live Site URL](https://cerezoar.github.io/fem-order-summary-component/)
 
 ## My process
 
@@ -53,22 +41,21 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS
 - Flexbox
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
-
+- Learned about flexbox that I used in this project.
 
 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+To continue with the frontend mentor challenges and gain experience in creating websites tha I can use in real life web development scenarios.
 
 
 
 ### Useful resources
 
-- [Mr Coder YT Channel](https://www.youtube.com/watch?v=rCBYZ7xn-us&t=337s) - 
+- [Mr Coder YT Channel](https://www.youtube.com/watch?v=rCBYZ7xn-us&t=337s) 
+- [Traversy Media YT Channel](https://www.youtube.com/watch?v=3YW65K6LcIA)
 
 
 
@@ -82,6 +69,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Thanks to resources from YT channels and to Frontendmentor for this challenges.
 
 
